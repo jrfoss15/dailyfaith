@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dailyfaith/static/css/main.b009ed52.css",
+    "main.js": "/dailyfaith/static/js/main.869a4383.js",
+    "static/js/453.1129e91d.chunk.js": "/dailyfaith/static/js/453.1129e91d.chunk.js",
+    "index.html": "/dailyfaith/index.html",
+    "main.b009ed52.css.map": "/dailyfaith/static/css/main.b009ed52.css.map",
+    "main.869a4383.js.map": "/dailyfaith/static/js/main.869a4383.js.map",
+    "453.1129e91d.chunk.js.map": "/dailyfaith/static/js/453.1129e91d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b009ed52.css",
+    "static/js/main.869a4383.js"
+  ]
+}
